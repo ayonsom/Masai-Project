@@ -1,4 +1,4 @@
-# Python program to draw a Geometrical Rangoli
+# Python program to draw a Rangoli, erase and re-draw infinite times until canvas closed.
 # using Turtle Programming
 import turtle
 rangoli = turtle.Turtle()
